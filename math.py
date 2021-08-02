@@ -1,10 +1,11 @@
 # add implementation
 def add(x,y):
     return x+y 
+	
 
 # subtract implementation	
 def subtract(x,y):
-    pass
+    return x-y 		# on branch bug456
 
 # multiply implementation
 def multiply(x,y):
